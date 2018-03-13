@@ -19,4 +19,4 @@ Humidity, %:
 ```
 
 Бонус
-git commit -S -v -m "$(./fga.py)"
+git commit -S -v -am "$(./fga.py)"
