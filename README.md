@@ -1,6 +1,7 @@
 # Погодный бот
 
-```BASH
+```bash
+
 /weather Rostov-on-Don
 
 Temperature, celsius:
@@ -14,6 +15,7 @@ Wind speed, m/s:
 Humidity, %:
 
 88
+
 ```
 
 Бонус
